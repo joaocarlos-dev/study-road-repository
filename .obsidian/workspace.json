@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Resumo da seção.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumo da seção"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Resumo da seção.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Resumo da seção"
+              "title": "Links inversos para README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Resumo da seção.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Resumo da seção"
+              "title": "Links de saída para README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Resumo da seção.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Resumo da seção"
+              "title": "Sumário de README"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "0396a45e751a8896",
   "lastOpenFiles": [
-    "SQL/Transações.md",
     "SQL/Resumo da seção.md",
+    "SQL/Transações.md",
     "SQL/ACID.md",
     "SQL/Relacionamentos.md",
     "SQL/Operações de CRUD.md",
