@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Transações.md",
+                "file": "SQL/Resumo da seção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transações"
+              "title": "Resumo da seção"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Transações.md",
+                "file": "SQL/Resumo da seção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Transações"
+              "title": "Links inversos para Resumo da seção"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Transações.md",
+                "file": "SQL/Resumo da seção.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Transações"
+              "title": "Links de saída para Resumo da seção"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Transações.md",
+                "file": "SQL/Resumo da seção.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Transações"
+              "title": "Sumário de Resumo da seção"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "0396a45e751a8896",
   "lastOpenFiles": [
-    "SQL/ACID.md",
     "SQL/Transações.md",
+    "SQL/Resumo da seção.md",
+    "SQL/ACID.md",
     "SQL/Relacionamentos.md",
     "SQL/Operações de CRUD.md",
     "SQL",
