@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e10576653bcf727f",
+        "id": "a13598dce86bfda6",
         "type": "tabs",
         "children": [
           {
-            "id": "0396a45e751a8896",
+            "id": "3d0598f8729fffb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Operações de CRUD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Operações de CRUD"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Operações de CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para README"
+              "title": "Links inversos para Operações de CRUD"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Operações de CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para README"
+              "title": "Links de saída para Operações de CRUD"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Operações de CRUD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Sumário de Operações de CRUD"
             }
           }
         ]
@@ -183,14 +183,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0396a45e751a8896",
+  "active": "786c091474425a05",
   "lastOpenFiles": [
-    "SQL/Resumo da seção.md",
+    "SQL/Imagens/{7E4C8D5F-9B01-4EFD-B555-B7D4E0AAD9AE}.png",
+    "SQL/Imagens/{CB005328-A851-486F-8F6E-57FCF1655A62}.png",
+    "SQL/Operações de CRUD.md",
     "SQL/Transações.md",
+    "SQL/Imagens",
+    "{D85347DB-271C-486B-B9EC-C833BBBBABFE}.png",
+    "SQL/Resumo da seção.md",
+    "README.md",
     "SQL/ACID.md",
     "SQL/Relacionamentos.md",
-    "SQL/Operações de CRUD.md",
-    "SQL",
-    "README.md"
+    "SQL"
   ]
 }
