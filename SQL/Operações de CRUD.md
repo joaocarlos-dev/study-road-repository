@@ -28,3 +28,5 @@ SET column1 = value1, column2 = value2
 WHERE condition;
 ```
 Um detalhe importante é, não importa que tenhamos uma quebra de linha ou não, o que define o fim do comando é o ; o que pode ocasionar em diversos problemas caso você esteja criando uma procedure grande e coloque um ; no lugar errado fazendo com que o comando rode de forma diferente impactando diretamente os dados.
+
+**Delete:** Por fim, temos o comando que poucas pessoas tem acesso em ambientes sérios de produção, o Delete, ele é responsável por deletar os dados da nossa aplicação, como uma medida protetiva, para essa função realizar efeito, temos dois comandos extras para auxiliar nesse manuseio, o primeiro deles é o COMMIT, ele é responsável por dizer que os dados de fato serão apagados, apenas utilizar o DELETE não garante que eles irão sumir, para isso temos um comando que nos auxilia a trazer esses dados de volta caso não tenhamos realizado o COMMIT ainda, que é o ROLLBACK.
