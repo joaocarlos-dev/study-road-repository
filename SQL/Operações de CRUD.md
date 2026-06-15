@@ -15,3 +15,16 @@ INSERT INTO cliente VALUES (1, 'João', 23);
 ```
  de qualquer forma, qualquer que seja o banco de dados o resultado deve ser o mesmo, inserir esse registro dentro do banco para ser utilizado em futuras consultas, dessa forma.
 ![[{7E4C8D5F-9B01-4EFD-B555-B7D4E0AAD9AE}.png]]
+
+
+**Read:** O Read como o próprio nome diz, é a operação que rege tudo que é relacionado a leitura de dados, então sempre que precisarmos trazer dados podemos utilizar uma imensidão de comandos `SELECT` para trazer esses dados, ai vamos ter por exemplo o mais simples de todos que seria `SELECT * FROM cliente` onde * representa as colunas selecionadas do nosso banco, nesse caso * traria todas as colunas, seguindo com o exemplo de cima traria Id, nome e idade já cliente seria o nossa tabela, nisso existem muitas variantes que não cabem aqui na explicação dos conceitos como Left join, right join e muito mais coisa.
+
+
+**Update:** O Update é uma quatro operações, sendo ela a responsável por atualizar os dados nas tabelas, junto do Delete ele é um dos comandos que mais precisamos tomar cuidado pois uma query mal escrita pode impactar milhões de linhas de clientes reais e causar uma perca absurda caso você não tenha backup. É claro que um júnior dificilmente tem acesso pra rodar comandos desse tipo mas vai saber né. Uma das formas de realizar o update seria através do seguinte comando
+
+```SQL
+UPDATE table_name
+SET column1 = value1, column2 = value2
+WHERE condition;
+```
+Um detalhe importante é, não importa que tenhamos uma quebra de linha ou não, o que define o fim do comando é o ; o que pode ocasionar em diversos problemas caso você esteja criando uma procedure grande e coloque um ; no lugar errado fazendo com que o comando rode de forma diferente impactando diretamente os dados.

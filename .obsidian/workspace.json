@@ -183,18 +183,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "786c091474425a05",
+  "active": "3d0598f8729fffb0",
   "lastOpenFiles": [
+    "SQL/Relacionamentos.md",
+    "SQL/Operações de CRUD.md",
     "SQL/Imagens/{7E4C8D5F-9B01-4EFD-B555-B7D4E0AAD9AE}.png",
     "SQL/Imagens/{CB005328-A851-486F-8F6E-57FCF1655A62}.png",
-    "SQL/Operações de CRUD.md",
     "SQL/Transações.md",
     "SQL/Imagens",
     "{D85347DB-271C-486B-B9EC-C833BBBBABFE}.png",
     "SQL/Resumo da seção.md",
     "README.md",
     "SQL/ACID.md",
-    "SQL/Relacionamentos.md",
     "SQL"
   ]
 }
