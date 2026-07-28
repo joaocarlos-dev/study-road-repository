@@ -1,0 +1,5 @@
+## Initial Thoughts
+
+Essa é minha visão de Docker antes de estudar sobre o assunto propriamente dito com a documentação, todo conhecimento que tenho atualmente é por tudo que vi diretamente na prática.
+
+Atualmente para mim o Docker é um sistema de organização da aplicação, você utiliza ele junto do docker compose para garantir que sua aplicação seja um "Rode em qualquer lugar", em vez de utilizar o convencional .venv em um exemplo de aplicação com python, você instala os pacotes dentro do docker e qualquer lugar que for utilizar a aplicação ao rodar o docker irá ter os pacotes também. Além disso, com a adição do docker compose você consegue orquestrar as aplicações separando em builds, por exemplo adicionar o banco de dados, uma aplicação web, uma aplicação back, tudo isso dentro do mesmo compose funcionando como uma aplicação inteira para subir um container em plataformas de hospedagem.
