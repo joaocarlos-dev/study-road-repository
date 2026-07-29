@@ -1,0 +1,10 @@
+Os containers são o conceito mais básico do Docker e que regem o princípio dessa aplicação. Os containers nada mais são do que um processo que roda na sua máquina para gerenciar sua aplicação. Por exemplo, digamos que você esteja construindo um sistema em React, Fast API e PostgreSQL, para fazer isso você precisaria instalar diversos pacotes na sua máquina como Node, python etc, com a utilização dos containers você consegue instalar tudo isso dentro de um container que roda um processo de forma isolada. 
+
+Os pontos positivos do container são: 
+ - Podem ser compartilhados para qualquer um. 
+ - Evita problema de versionamento dos pacotes, uma vez que você instalou os pacotes diretamente dentro do container, qualquer um que clonar aquele container para rodar na sua própria máquina terá a certeza que está instalando os pacotes a versão correta da aplicação. 
+ - Os containers foram feitos para rodar em todos os lugares, então seja um servidor, na nuvem, eles foram feitos para rodar independente da onde estão. 
+ - Cada processo do container roda de forma isolada, então se estiver rodando múltiplos containers, apagar um deles não irá afetar nenhum dos outros.
+ - Eles são "prontos para agir", todos os containers possuem dentro deles mesmos todos os arquivos necessários para rodar a aplicação, não sendo necessário instalar nenhuma dependência na máquina que eles estão processando.
+
+Diferente das VMs (máquinas virtuais), os containers são processos que independente da quantidade que você roda ele sempre irá rodar no mesmo kernel, diferentemente das máquinas virtuais onde cada um possui seu próprio sistema operacional, dessa forma, utilizando containers você consegue rodar mais aplicações gastando uma quantidade menor de dinheiro em infraestrutura. Uma boa combinação disso é o uso de máquinas virtuais e containers como acontece em sistemas Cloud para rodar múltiplas aplicações em uma única máquina virtual.
