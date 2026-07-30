@@ -5,7 +5,7 @@ Para essa construção temos os seguintes comandos:
  - `FROM <image>`: especifica a imagem que aquela build vai utilizar. 
  - `WORKDIR <path>`: Especifica o 'Working Directory' ou o caminho na imagem para onde os arquivos serão copiados e onde os comandos serão executados
  - `COPY <host-path> <image-path>`: Especifica para o builder para copiar os arquivos do caminho do host para o caminho da imagem. 
- - `RUN <command>`: Informa o builder para rodar um determinado comando
+ - `RUN <command>`: Informa o builwer para rodar um determinado comando
  - `ENV <name> <value>`: Define as variáveis de ambiente que o container irá utilizar.
  - `EXPOSE <port-number>`: Define a porta que será exposta da Imagem.
  - `USER <user-or-uid>`: Define um usuário padrão para todas as ações a partir dessa.
