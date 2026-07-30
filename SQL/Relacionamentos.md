@@ -1,0 +1,2 @@
+Ao modelarmos um banco de dados devemos prestar bastante atenção nas tabelas que são as entidades para garantirmos uma maior segurança da nossa aplicação, para isso, existe um conceito chamado MER ou Modelo Entidade Relacionamento, o MER nos ajuda a estruturar nosso banco garantindo uma melhor representação dessas estruturas e facilitando a comunicação entre os profissionais que estão atuando no projeto, além de possuir uma melhor flexibilidade, simplicidade, adaptabilidade e objetividade.
+
