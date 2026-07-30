@@ -1,3 +1,3 @@
-No sistema de organização das Imagens de containers, existem duas "camadas", sendo elas registry e repository. O repository ele é uma "pasta" onde você organiza diferentes imagens do mesmo projeto que são relacionadas, como se fossem v1, v2, v3 etc. Já o registry ele é o organizador e responsável por armazenar as imagens sejam elas de diferentes projetos ou não, sendo a camada "externa", como na imagem abaixo.
+No sistema de organização das [[Images]] de [[Containers]], existem duas "camadas", sendo elas registry e repository. O repository ele é uma "pasta" onde você organiza diferentes [[Images]] do mesmo projeto que são relacionadas, como se fossem v1, v2, v3 etc. Já o registry ele é o organizador e responsável por armazenar as [[Images]] sejam elas de diferentes projetos ou não, sendo a camada "externa", como na imagem abaixo.
 
 ![[{BFB168CE-ABB8-442C-BB02-4D5D4DF9CA22}.png]]
